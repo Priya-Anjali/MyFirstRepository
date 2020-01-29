@@ -1,3 +1,5 @@
 Project folders:
 domain is first
 utils is next
+configuration is first.
+thanks
