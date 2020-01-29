@@ -1,9 +1,0 @@
-Project folders:
-domain is first
-utils is next
-configuration is first.
-
-service and implementation 
-dao and implementation
-
-thanks
